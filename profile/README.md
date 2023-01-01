@@ -1,6 +1,7 @@
+<h3>Coming Soon</h3>
 <h1>Welcome to Buy & Sell NOVA!</h1>
 
-Our website is the "go-to" thrift shop for Villanova students, promoting community and sustainability on our campus. Students can sign up for an account with their 'villanova.edu' email, then choose to buy items from other students as seen on the homepage, or post items they wish to sell, from unwanted dorm decor to old class textbooks. All transactions are handled through the app. 
+Are you a Villanova student looking to offload some precious items? Are you looking for room decor, books, or furnishings at a decent price? Join us at Buy & Sell Nova where villanova students have 
 
 <h2>CSC 4790: Senior Projects</h2>
 
