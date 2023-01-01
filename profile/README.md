@@ -1,4 +1,4 @@
-<h3>Coming Soon</h3>
+<h3> == Coming Soon == </h3>
 <h1>Welcome to Buy & Sell NOVA!</h1>
 
 Are you a Villanova student looking to offload some precious items? Are you looking for room decor, books, or furnishings at a decent price? Join us at Buy & Sell Nova where villanova students have 
